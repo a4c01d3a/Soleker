@@ -1,3 +1,3 @@
 Soleker
 
-The operational instructions and full dataset will be given after acceptance.
+The operational instructions will be given after acceptance.
